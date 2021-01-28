@@ -1,2 +1,2 @@
 # c-programming
-printf ("Hello World");
+printf("Hello World");
